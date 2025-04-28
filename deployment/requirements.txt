@@ -1,0 +1,11 @@
+# Same as root requirements.txt
+torch>=2.0.0
+librosa>=0.9.2
+soundfile>=0.12.1
+ffmpeg-python>=0.2.0
+streamlit>=1.22.0
+numpy>=1.23.5
+scipy>=1.10.1
+matplotlib>=3.7.1
+musdb>=0.4.0
+museval>=0.4.0

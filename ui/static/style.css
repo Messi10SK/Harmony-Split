@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f2f6;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #1f77b4;
+    text-align: center;
+}
+.stButton>button {
+    background-color: #1f77b4;
+    color: white;
+    border-radius: 5px;
+}
+.stFileUploader {
+    border: 2px dashed #1f77b4;
+    padding: 10px;
+}
