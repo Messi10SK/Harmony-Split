@@ -23,5 +23,11 @@ A music source separation tool to split audio into vocals, drums, bass, and othe
 ## Training
 Run `python model/train.py` to train the model.
 
+## ScreenShots
+![Alt Text](images/before.png)
+
+![Alt Text](images/After.png)
+
+
 ## License
 MIT
